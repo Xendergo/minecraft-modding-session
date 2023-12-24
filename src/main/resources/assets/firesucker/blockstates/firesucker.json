@@ -1,10 +1,2 @@
 {
-  "variants": {
-    "powered=false": {
-      "model": "firesucker:block/firesucker_off"
-    },
-    "powered=true": {
-      "model": "firesucker:block/firesucker_on"
-    }
-  }
 }

@@ -1,7 +1,3 @@
 {
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "firesucker:block/firesucker_off"
-  }
 }
 
